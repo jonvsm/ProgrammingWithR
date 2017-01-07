@@ -7,7 +7,7 @@ complete <- function(directory, id=1:332){
     
     for (eachmonitor in id){
         #print(r)
-        padmon <- str_pad(eachmonitor, 3, pad = "0")
+        padmon <- str_pad(eachmonitor, 3, pad = "0")  ##this call requires library(stringr)
         file_name = paste(directory, padmon, ".csv", sep="")
         polfile = read.csv(file_name)
         cc <- sum(complete.cases(polfile)=="TRUE")
