@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+# ProgrammingWithR
+Files from Coursera Class - Programming with R
+=======
+# R Programming
+Files from Coursera Class - R Programming
+>>>>>>> 020d4b23454ec377512be573dace6df92ebb658c
+
+I'm just experimenting with GIT right now, figuring out how to get files I've been working on locally into Git and to Git hub.
+=======
 ### Introduction
 
 This second programming assignment will require you to write an R
@@ -103,3 +114,4 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+>>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
